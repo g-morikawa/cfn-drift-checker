@@ -10,7 +10,6 @@
 
 * Usage
 
-'''
+```
 cfn-drift-checker.py
-
-'''
+```
